@@ -1,0 +1,12 @@
+body{
+  background-color: #343434;
+  color: #45969B;
+}
+.bodies{
+  margin: 1rem;
+}
+
+.box{
+  margin-right: 1rem;
+  display:inline-flex;
+}
